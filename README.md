@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Solaiman</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-- 🔭 I’m currently working on [Responsive Viewer](https://responsiveviewer.org/)
+- 🔭 I’m currently working on [Responsive Viewer](https://responsiveviewer.org/) & on [Kitly](https://github.com/skmail/kitly)
 
 - 📫 How to reach me **psokmail@gmail.com**
 
